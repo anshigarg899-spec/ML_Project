@@ -30,7 +30,7 @@ Applied StandardScaler to normalize data.
 ### 7. Train-Test Split
 Split dataset into training and testing sets.
 
-## 🛠Tools Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
