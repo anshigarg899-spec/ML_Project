@@ -3,8 +3,8 @@
 |  **Detail**       |  **Information**              |
 |---------------------|--------------------------------|
 | **Name**         | Anshika Garg                   |
-| **Roll No**      | (Your Roll No)                 |
-| **Class**        | (Your Class/Section)           |
+| **Roll No**      | 2K24CSUN01079                  |
+| **Class**        | CSE 4B         |
 | ** Subject**      | Machine Learning Lab           |
 
 ---
