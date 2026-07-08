@@ -1,6 +1,6 @@
-# 🤖 Machine Learning Projects Collection
+# 🤖 Machine Learning Projects 
 
-## 📖 About the Repository
+## 📖 Overview 
 
 This repository contains a collection of Machine Learning projects completed as part of my learning journey. Each project focuses on a different stage of the machine learning pipeline, including data preprocessing, exploratory data analysis, model building, prediction, and performance evaluation.
 
