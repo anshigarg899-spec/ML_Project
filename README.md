@@ -45,15 +45,17 @@ The projects are implemented using Python and popular data science libraries to 
 
 ---
 
-## 📁 Repository Structure
+## 📁 Project Structure
 
 ```text
 Machine-Learning-Projects/
 │
-├── Car_Data_Preprocessing.ipynb
-├── House_Price_Prediction.ipynb
-├── Titanic_Survival_Prediction.ipynb
-├── datasets/
+├── Car_dataset_data_preprocessing.ipynb
+├── House_Prediction_Dataset.ipynb
+├── Titanic_dataset.ipynb
+├── car_dataset.csv
+├── houseprice.csv
+├── titanic.csv
 └── README.md
 ```
 
